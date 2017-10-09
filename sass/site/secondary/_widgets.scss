@@ -1,0 +1,254 @@
+.widget-area{
+  .widget {
+    margin: 0 0 50px;
+  }
+  .widget-title{
+    position: relative;
+    font-family: Karla;
+    font-size: 20px;
+    line-height: 26px;
+    font-weight: normal;
+    margin-bottom: 13px;
+  }
+
+  a{
+    color: #698591;
+  }
+
+  ul{
+    li{
+      a{
+
+      }
+    }
+  }
+
+  .tagcloud{
+    a{
+      color: $color__text-main;
+    }
+  }
+}
+
+.widget {
+  margin: 0 0 1.5em;
+
+  /* Make sure select elements fit in widgets. */
+  select {
+      max-width: 100%;
+  }
+  ul:not(.product_list_widget){
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    li{
+      margin-bottom: 10px;
+      &:last-child{
+        padding-bottom: 0;
+        margin-bottom: 0;
+        border-bottom: none;
+      }
+      > a{
+        position: relative;
+        padding-right: 15px;
+        display: inline-block;
+      }
+    }
+    ul{
+      padding-left: 15px;
+      li{
+        &:first-child{
+          margin-top: 10px;
+        }
+      }
+    }
+  }
+
+  .search-form{
+    border-bottom: 1px solid #d5d8e3;
+    .search-field{
+      border: none;
+      padding: 7px 0;
+    }
+    .search-submit{
+      background: url(images/bg_search.png) no-repeat center right;
+      border: none;
+      text-indent: -1000px;
+      overflow: hidden;
+      &:hover,&:focus{
+        background: url(images/bg_search.png) no-repeat center right!important;
+      }
+    }
+  }
+
+  /* ab-recent-post-image */
+  &.widget_ab_recent_post{
+    .ab-recent-post-image{
+      padding-right: 20px;
+      img{
+        padding-top: 2px;
+        width: 85px;
+        height: 61px;
+        @include border-radius(3px);
+      }
+    }
+    .ab-recent-post-item-text{
+      font-style: italic;
+      line-height: 1.5;
+    }
+    ul{
+      li{
+        padding-bottom: 25px!important;
+        margin-bottom: 25px!important;
+      }
+    }
+  }
+
+  .tagcloud{
+    a{
+      font-size: 14px!important;
+      color: #fff;
+      padding: 6px 15px;
+      @include border-radius(3px);
+      display: inline-block;
+      margin-bottom: 5px;
+      text-transform: capitalize;
+      &:hover{
+        color: #fff!important;
+      }
+    }
+  }
+}
+
+.widget-area{
+  ul:not(.product_list_widget){
+    li{
+      margin-bottom: 5px;
+      padding-bottom: 5px;
+      border-bottom: 1px solid $color__border;
+      &:last-child{
+        padding-bottom: 0;
+        margin-bottom: 0;
+        border-bottom: none;
+      }
+    }
+  }
+}
+
+/* Search widget. */
+.widget_search {
+  label{
+    float: left;
+    width: 70%;
+  }
+  .search-field{
+    width: 100%;
+  }
+  .search-submit{
+    width: 30%;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .widget_search {
+    label{
+      float: left;
+      width: 60%;
+    }
+    .search-field{
+      width: 100%;
+    }
+    .search-submit{
+      width: 40%;
+    }
+  }
+}
+
+.brochure-button{
+  display: block;
+  border: 1px solid $color__border;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  padding: 10px 15px;
+  color: #888;
+  i{
+    margin-right: 10px;
+  }
+  &:hover{
+    background: $color__border;
+    color: #3c3c3c;
+  }
+}
+
+/* Contact form 7 */
+.wpcf7{
+  .wpcf7-form-control{
+    margin-top: 6px;
+  }
+  .col2{
+    width: 49%;
+    margin-bottom: 10px;
+    input{
+      width: 100%;
+    }
+  }
+}
+
+/* widget portfolio */
+.widget-portfolio-wrap{
+  margin: -5px;
+  .widget-portfolio-item{
+    width: 33.33%;
+    float: left;
+    position: relative;
+    padding: 4px;
+    img{
+      @include transition(all 0.3s ease);
+    }
+    a{
+      display: block;
+      overflow: hidden;
+      border: 1px solid transparent;
+    }
+    &:hover{
+      img{
+        @include transform(scale(1.2));
+      }
+    }
+  }
+}
+
+.ab-newsletter-email{
+  display: table-cell;
+  width: 80%;
+  input{
+    width: 100%;
+    min-height: 41px;
+  }
+}
+.ab-newsletter-submit{
+  display: table-cell;
+}
+.newsletter-submit{
+  padding: 8px 32px!important;
+}
+
+/* revo slider */
+body{
+  .zeus.tparrows{
+    min-width: 48px;
+    min-height: 48px;
+  }
+  .zeus.tparrows{
+    &:before{
+      line-height: 48px;
+      font-size: 48px;
+      font-family: "Simple-Line-Icons";
+    }
+  }
+  .zeus.tparrows.tp-rightarrow:before {
+    content: "\e079";
+  }
+  .zeus.tparrows.tp-leftarrow:before {
+    content: "\e07a";
+  }
+}

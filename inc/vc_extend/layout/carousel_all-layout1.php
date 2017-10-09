@@ -1,0 +1,5 @@
+<div class="st-carousel-all-wrap st-carousel-all-<?php echo esc_attr($consultancy_carousel_all_template).' '. esc_attr($consultancy_carousel_extra_class);?>">
+    <div class="st-carousel" data-margin="<?php echo esc_attr($consultancy_carousel_all_margin);?>" data-loop="<?php echo esc_attr($consultancy_carousel_loop);?>" data-nav="<?php echo esc_attr($consultancy_carousel_nav);?>" data-dots="<?php echo esc_attr($consultancy_carousel_dots);?>" data-autoplay="<?php echo esc_attr($consultancy_carousel_autoplay);?>" data-xsmall-items="<?php echo esc_attr($consultancy_carousel_all_xsmall_items);?>" data-small-items="<?php echo esc_attr($consultancy_carousel_all_small_items);?>" data-medium-items="<?php echo esc_attr($consultancy_carousel_all_medium_items);?>" data-large-items="<?php echo esc_attr($consultancy_carousel_all_large_items);?>">
+        <?php echo do_shortcode( $content ); ?>
+    </div>
+</div>

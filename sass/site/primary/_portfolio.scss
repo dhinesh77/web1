@@ -1,0 +1,41 @@
+.portfolio-navigation{
+
+  .portfolio-nav{
+    display: inline-block;
+    line-height: 26px;
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+    border: 2px solid;
+    margin-left: 5px;
+    padding: 0 15px;
+  }
+}
+
+.st-portfolio{
+  .st-portfolio-media{
+    margin-bottom: 30px;
+  }
+  .p-detail-wrap{
+    > div{
+      margin-bottom: 5px;
+      &:last-child{
+        margin-bottom: 30px;
+      }
+    }
+    strong{
+      margin-right: 10px;
+    }
+  }
+  .p-gallery{
+    ul{
+      margin: -5px;
+      list-style: none;
+      li{
+        width: 25%;
+        float: left;
+        padding: 5px;
+      }
+    }
+  }
+}

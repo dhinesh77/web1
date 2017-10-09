@@ -1,0 +1,38 @@
+.site-header {
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  position: relative;
+  z-index: 99;
+
+  &.hide-menu{
+    position: fixed;
+    z-index: 5000;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+
+  .site-header-inner {
+    width: 100%;
+    padding: 0px 20px;
+    position: relative;
+    top: 0;
+    transition: top 0.25s ease-in-out, background 0.25s ease-in-out;
+    -webkit-transition: top 0.25s ease-in-out, background 0.25s ease-in-out;
+    -moz-transition: top 0.25s ease-in-out, background 0.25s ease-in-out;
+    -ms-transition: top 0.25s ease-in-out, background 0.25s ease-in-out;
+    -o-transition: top 0.25s ease-in-out, background 0.25s ease-in-out;
+  }
+
+  &.hide-menu .site-header-inner {
+    background: rgba(41, 174, 204, 0.9);
+    top: -80px;
+  }
+
+  &.scroll-up .site-header-inner{
+    top: 0;
+  }
+}
+.admin-bar .site-header.hide-menu{
+  top: 32px;
+}

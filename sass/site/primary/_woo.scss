@@ -1,0 +1,108 @@
+.woocommerce{
+  .woocommerce-ordering, .woocommerce-result-count{
+    margin: 0 0 30px;
+  }
+
+  a.added_to_cart {
+    padding: .5em .5em .3em;
+  }
+
+  nav.woocommerce-pagination ul li a, nav.woocommerce-pagination ul li span{
+    padding: 12px;
+  }
+  ul.products li.product .onsale{
+    top: 0;
+    right: 0;
+    border-radius: 0;
+    background-color: #3c3c3c;
+    padding: 3px 8px;
+    margin: 0;
+  }
+  span.onsale{
+    top: 0;
+    left: 0;
+    border-radius: 0;
+    background-color: #3c3c3c;
+    padding: 3px 8px;
+    margin: 0;
+  }
+  ul.products li.product .price{
+    color: $color__text-main;
+    del{
+      display: inline-block;
+    }
+  }
+
+  div.product p.price, div.product span.price{
+    color: $color__text-main;
+  }
+
+  #respond input#submit.alt, a.button.alt, button.button.alt, input.button.alt, .wc-proceed-to-checkout a{
+    &:hover{
+      background: #3c3c3c;
+    }
+  }
+
+  [itemprop = 'description']{
+    margin-bottom: 30px;
+  }
+
+  /* detail page */
+  .product-type-simple{
+    .entry-summary{
+      margin-top: 0;
+    }
+  }
+  .single_variation_wrap{
+    .single_variation{
+      margin-bottom: 30px;
+    }
+  }
+  div.product .woocommerce-tabs ul.tabs li{
+    border-color: $color__border;
+    background-color: $color__border;
+  }
+  div.product .woocommerce-tabs ul.tabs li:after, div.product .woocommerce-tabs ul.tabs li:before{
+    border-color: $color__border;
+  }
+  div.product .woocommerce-tabs ul.tabs:before{
+    border-color: $color__border;
+  }
+  #reviews #comments ol.commentlist li .comment-text{
+    border-color: $color__border;
+  }
+  p.stars a.star-1, p.stars a.star-2, p.stars a.star-3, p.stars a.star-4, p.stars a.star-5{
+    border-color: $color__border;
+  }
+
+  div.product form.cart .button,
+  ul.products li.product .button,
+  .wc-proceed-to-checkout a.checkout-button{
+    padding: 10px 15px;
+    line-height: 17px;
+    text-transform: uppercase;
+  }
+
+  /* table */
+  table.shop_table,
+  table.shop_table td{
+    border-color: $color__border;
+  }
+
+  ul.product_list_widget li {
+    padding: 10px 0;
+  }
+  .cart_list.product_list_widget li{
+    padding-bottom: 20px;
+  }
+}
+
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button{
+  @include border-radius(0);
+}
+.woocommerce-cart .cart-collaterals .cart_totals tr td, .woocommerce-cart .cart-collaterals .cart_totals tr th{
+  border-color: $color__border;
+}
+.woocommerce table.shop_table tbody th, .woocommerce table.shop_table tfoot td, .woocommerce table.shop_table tfoot th{
+  border-color: $color__border;
+}

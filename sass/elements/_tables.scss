@@ -1,0 +1,8 @@
+table {
+  border-color: $color__border;
+  margin: 0 0 1.5em;
+  width: 100%;
+  td, th{
+    border-color: $color__border;
+  }
+}

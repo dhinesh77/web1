@@ -1,0 +1,2620 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Consultancy\n"
+"POT-Creation-Date: 2016-01-21 22:56+0700\n"
+"PO-Revision-Date: 2016-01-21 22:55+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:39
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:56
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38 comments.php:54
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:57
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:58
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:47
+#, php-format
+msgid "&copy; 2015 %1$s - Theme by %2$s"
+msgstr ""
+
+#: footer.php:47
+msgid "http://www.themeamber.com/"
+msgstr ""
+
+#: functions.php:67
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:68 inc/options/options-config.php:571
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:113 inc/meta/meta.php:107
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:123 inc/meta/meta.php:108
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:133
+msgid "Sidebar Shop"
+msgstr ""
+
+#: functions.php:143
+msgid "Footer Top"
+msgstr ""
+
+#: functions.php:152
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:161
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:170
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:358 inc/plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:359 inc/plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:360 inc/plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:361 inc/plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:362 inc/plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:363 inc/plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:364
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:365 inc/plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:366 inc/plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:367
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:368 inc/plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:369
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:370 inc/plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:371
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:372 inc/plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:373 inc/plugin-activation.php:399
+#: inc/plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:374
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: header.php:31
+msgid "Skip to content"
+msgstr ""
+
+#: inc/extras.php:273
+msgid "Shopping Cart"
+msgstr ""
+
+#: inc/extras.php:570
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/meta/includes/CMB2.php:119
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: inc/meta/includes/CMB2.php:316
+msgid "Click to toggle"
+msgstr ""
+
+#: inc/meta/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: inc/meta/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr ""
+
+#: inc/meta/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: inc/meta/includes/CMB2_Field.php:893
+msgid "Add Group"
+msgstr ""
+
+#: inc/meta/includes/CMB2_Field.php:894
+msgid "Remove Group"
+msgstr ""
+
+#: inc/meta/includes/CMB2_Field.php:916 inc/meta/includes/CMB2_Field.php:920
+msgid "None"
+msgstr ""
+
+#: inc/meta/includes/CMB2_Types.php:297
+msgid "Add Row"
+msgstr ""
+
+#: inc/meta/includes/CMB2_Types.php:356 inc/meta/includes/CMB2_Types.php:989
+#: inc/meta/includes/CMB2_hookup.php:194
+msgid "Remove"
+msgstr ""
+
+#: inc/meta/includes/CMB2_Types.php:725 inc/meta/includes/CMB2_Types.php:773
+msgid "No terms"
+msgstr ""
+
+#: inc/meta/includes/CMB2_Types.php:838
+msgid "Add or Upload Files"
+msgstr ""
+
+#: inc/meta/includes/CMB2_Types.php:896
+msgid "Add or Upload File"
+msgstr ""
+
+#: inc/meta/includes/CMB2_Types.php:970 inc/meta/includes/CMB2_hookup.php:193
+msgid "Remove Image"
+msgstr ""
+
+#: inc/meta/includes/CMB2_Types.php:984 inc/meta/includes/CMB2_hookup.php:195
+msgid "File:"
+msgstr ""
+
+#: inc/meta/includes/CMB2_Types.php:987 inc/meta/includes/CMB2_hookup.php:196
+msgid "Download"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:139 inc/meta/includes/CMB2_hookup.php:176
+msgid "Clear"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:140 inc/meta/meta.php:106
+msgid "Default"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:141
+msgid "Select Color"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:142
+msgid "Current Color"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:166
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:167
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:168
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:169
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:170
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:171
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:172 single-portfolio.php:25
+msgid "Next"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:173 single-portfolio.php:21
+msgid "Prev"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:174
+msgid "Today"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:175 inc/meta/includes/CMB2_hookup.php:185
+msgid "Done"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:179
+msgid "Choose Time"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:180
+#: inc/vc_extend/shortcodes/pricing.php:55
+#: inc/vc_extend/shortcodes/pricing.php:57
+msgid "Time"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:181
+msgid "Hour"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:182
+msgid "Minute"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:183
+msgid "Second"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:184
+msgid "Now"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:186
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:192
+msgid "Use this file"
+msgstr ""
+
+#: inc/meta/includes/CMB2_hookup.php:197
+msgid "Select / Deselect All"
+msgstr ""
+
+#: inc/meta/includes/helper-functions.php:249
+msgid "Save"
+msgstr ""
+
+#: inc/meta/meta.php:79 inc/meta/meta.php:230
+msgid "Page Settings"
+msgstr ""
+
+#: inc/meta/meta.php:88 inc/meta/meta.php:239
+msgid "Transparent Header?"
+msgstr ""
+
+#: inc/meta/meta.php:89 inc/meta/meta.php:240
+msgid "Transparent header, use transparent logo from theme option."
+msgstr ""
+
+#: inc/meta/meta.php:94 inc/meta/meta.php:120 inc/meta/meta.php:131
+#: inc/meta/meta.php:201 inc/meta/meta.php:245
+msgid "Yes"
+msgstr ""
+
+#: inc/meta/meta.php:95 inc/meta/meta.php:121 inc/meta/meta.php:132
+#: inc/meta/meta.php:202 inc/meta/meta.php:246
+msgid "No"
+msgstr ""
+
+#: inc/meta/meta.php:100 inc/options/options-config.php:339
+msgid "Page Layout"
+msgstr ""
+
+#: inc/meta/meta.php:101
+msgid "Set the page layout, inherit from Theme Option by default."
+msgstr ""
+
+#: inc/meta/meta.php:109
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/meta/meta.php:110
+msgid "Full Screen"
+msgstr ""
+
+#: inc/meta/meta.php:115
+msgid "Hide page title?"
+msgstr ""
+
+#: inc/meta/meta.php:126
+msgid "Hide Text?"
+msgstr ""
+
+#: inc/meta/meta.php:137
+msgid "Page Title Custom"
+msgstr ""
+
+#: inc/meta/meta.php:138
+msgid "Enter in the page title here, accept simple HTML code."
+msgstr ""
+
+#: inc/meta/meta.php:144
+msgid "Title Text Color"
+msgstr ""
+
+#: inc/meta/meta.php:145
+msgid "Set title text color."
+msgstr ""
+
+#: inc/meta/meta.php:152
+msgid "Page Subtitle"
+msgstr ""
+
+#: inc/meta/meta.php:153
+msgid "Enter in the page subtitle here."
+msgstr ""
+
+#: inc/meta/meta.php:159
+msgid "SubTitle Text Color"
+msgstr ""
+
+#: inc/meta/meta.php:160
+msgid "Set subtitle text color."
+msgstr ""
+
+#: inc/meta/meta.php:167
+msgid "Page Title Alignment"
+msgstr ""
+
+#: inc/meta/meta.php:168
+msgid "Title text to be align"
+msgstr ""
+
+#: inc/meta/meta.php:173
+msgid "Left"
+msgstr ""
+
+#: inc/meta/meta.php:174
+msgid "Center"
+msgstr ""
+
+#: inc/meta/meta.php:175
+msgid "Right"
+msgstr ""
+
+#: inc/meta/meta.php:180
+msgid "Page Title Padding"
+msgstr ""
+
+#: inc/meta/meta.php:181
+msgid ""
+"Enter your titpe padding (top right bottom left) in px. Default is: 120px 0"
+msgstr ""
+
+#: inc/meta/meta.php:188
+msgid "Page Title Background Image"
+msgstr ""
+
+#: inc/meta/meta.php:189
+msgid "Upload background for page title here."
+msgstr ""
+
+#: inc/meta/meta.php:195
+msgid "Background Parallax?"
+msgstr ""
+
+#: inc/meta/meta.php:196
+msgid "Background parallax scroll effect."
+msgstr ""
+
+#: inc/meta/meta.php:207
+msgid "Page Title Background Color"
+msgstr ""
+
+#: inc/meta/meta.php:208
+msgid "Select background color."
+msgstr ""
+
+#: inc/options/options-config.php:54
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/options/options-config.php:55 inc/options/options-config.php:61
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/options/options-config.php:60
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/options/options-config.php:65
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/options/options-config.php:88 inc/options/options-config.php:89
+msgid "Theme Options"
+msgstr ""
+
+#: inc/options/options-config.php:196 inc/vc_extend/shortcodes/carousel.php:26
+#: inc/vc_extend/shortcodes/carousel.php:36
+#: inc/vc_extend/shortcodes/carousel.php:74
+#: inc/vc_extend/shortcodes/carousel_all.php:24
+#: inc/vc_extend/shortcodes/carousel_all.php:32
+#: inc/vc_extend/shortcodes/client.php:20
+#: inc/vc_extend/shortcodes/client.php:32
+#: inc/vc_extend/shortcodes/client.php:40
+#: inc/vc_extend/shortcodes/counter.php:19
+#: inc/vc_extend/shortcodes/counter.php:32
+#: inc/vc_extend/shortcodes/counter.php:40
+#: inc/vc_extend/shortcodes/custom_heading.php:67
+#: inc/vc_extend/shortcodes/custom_heading.php:75
+#: inc/vc_extend/shortcodes/custom_heading.php:88
+#: inc/vc_extend/shortcodes/feature_box.php:21
+#: inc/vc_extend/shortcodes/feature_box.php:34
+#: inc/vc_extend/shortcodes/feature_box.php:42
+#: inc/vc_extend/shortcodes/grid.php:26 inc/vc_extend/shortcodes/grid.php:37
+#: inc/vc_extend/shortcodes/grid.php:45 inc/vc_extend/shortcodes/news.php:20
+#: inc/vc_extend/shortcodes/news.php:28 inc/vc_extend/shortcodes/partner.php:19
+#: inc/vc_extend/shortcodes/partner.php:32
+#: inc/vc_extend/shortcodes/partner.php:40
+#: inc/vc_extend/shortcodes/pricing.php:18
+#: inc/vc_extend/shortcodes/pricing.php:30
+#: inc/vc_extend/shortcodes/pricing.php:37
+#: inc/vc_extend/shortcodes/progress_bar.php:19
+#: inc/vc_extend/shortcodes/progress_bar.php:27
+#: inc/vc_extend/shortcodes/team.php:20 inc/vc_extend/shortcodes/team.php:33
+#: inc/vc_extend/shortcodes/team.php:41
+msgid "General"
+msgstr ""
+
+#: inc/options/options-config.php:206
+msgid "Logo Settings"
+msgstr ""
+
+#: inc/options/options-config.php:212
+msgid "Site Logo"
+msgstr ""
+
+#: inc/options/options-config.php:214
+msgid "Upload your logo here."
+msgstr ""
+
+#: inc/options/options-config.php:220
+msgid "Transparent Logo"
+msgstr ""
+
+#: inc/options/options-config.php:222
+msgid ""
+"Upload your transparent logo here, transparent logo display on a transparent "
+"header when applicable."
+msgstr ""
+
+#: inc/options/options-config.php:231
+msgid "Logo Margin"
+msgstr ""
+
+#: inc/options/options-config.php:233
+msgid "Set your logo margin in px. ee.g. 20"
+msgstr ""
+
+#: inc/options/options-config.php:247
+msgid "Favicon Settings"
+msgstr ""
+
+#: inc/options/options-config.php:253
+msgid "Site Favicon"
+msgstr ""
+
+#: inc/options/options-config.php:255
+msgid ""
+"Upload your Favicon (16x16px ico/png - use favicon.cc to make sure its fully "
+"compatible)"
+msgstr ""
+
+#: inc/options/options-config.php:261
+msgid "Apple iPhone Icon "
+msgstr ""
+
+#: inc/options/options-config.php:263
+msgid "iPhone icon (57px x 57px)."
+msgstr ""
+
+#: inc/options/options-config.php:270
+msgid "Apple iPhone Retina Icon "
+msgstr ""
+
+#: inc/options/options-config.php:272
+msgid "iPhone retina icon (114px x 114px)."
+msgstr ""
+
+#: inc/options/options-config.php:279
+msgid "Apple iPad Icon "
+msgstr ""
+
+#: inc/options/options-config.php:281
+msgid "iPad icon (72px x 72px)."
+msgstr ""
+
+#: inc/options/options-config.php:288
+msgid "Apple iPad Retina Icon "
+msgstr ""
+
+#: inc/options/options-config.php:290
+msgid "iPad retina icon (144px x 144px)."
+msgstr ""
+
+#: inc/options/options-config.php:296
+msgid "Other Settings"
+msgstr ""
+
+#: inc/options/options-config.php:301
+msgid "Enable Page Comments?"
+msgstr ""
+
+#: inc/options/options-config.php:302
+msgid "Do you want to enable comments on single page?"
+msgstr ""
+
+#: inc/options/options-config.php:308
+msgid "Enable Page Loading?"
+msgstr ""
+
+#: inc/options/options-config.php:309
+msgid "Do you want to enable loading effect?"
+msgstr ""
+
+#: inc/options/options-config.php:315
+msgid "Enable Scroll To Top Button?"
+msgstr ""
+
+#: inc/options/options-config.php:316
+msgid "Do you want to enable scroll to top button?"
+msgstr ""
+
+#: inc/options/options-config.php:324
+#: inc/vc_extend/shortcodes/call_to_action.php:55
+#: inc/vc_extend/shortcodes/carousel.php:25
+#: inc/vc_extend/shortcodes/carousel_all.php:23
+#: inc/vc_extend/shortcodes/contact.php:30 inc/vc_extend/shortcodes/grid.php:25
+msgid "Layout"
+msgstr ""
+
+#: inc/options/options-config.php:332
+msgid "Boxed Layout?"
+msgstr ""
+
+#: inc/options/options-config.php:333
+msgid "Enable boxed layout?"
+msgstr ""
+
+#: inc/options/options-config.php:340
+msgid "Default page layout."
+msgstr ""
+
+#: inc/options/options-config.php:351
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/options/options-config.php:352
+msgid ""
+"Default archive layout ( front page, category, tag, search, author, "
+"archive )."
+msgstr ""
+
+#: inc/options/options-config.php:363
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/options/options-config.php:364
+msgid ""
+"Set your blog layout to display, include blog page and single blog post."
+msgstr ""
+
+#: inc/options/options-config.php:375
+msgid "Single WooCommerce Product Layout"
+msgstr ""
+
+#: inc/options/options-config.php:376
+msgid "Layout for single product and products archive."
+msgstr ""
+
+#: inc/options/options-config.php:389
+msgid "Social Connect"
+msgstr ""
+
+#: inc/options/options-config.php:397 inc/vc_extend/shortcodes/team.php:76
+msgid "Facebook"
+msgstr ""
+
+#: inc/options/options-config.php:399
+msgid "Enter your Facebook URL."
+msgstr ""
+
+#: inc/options/options-config.php:405 inc/vc_extend/shortcodes/team.php:85
+msgid "Twitter"
+msgstr ""
+
+#: inc/options/options-config.php:407
+msgid "Enter your Twitter URL."
+msgstr ""
+
+#: inc/options/options-config.php:413
+msgid "Linkedin"
+msgstr ""
+
+#: inc/options/options-config.php:415
+msgid "Enter your Linkedin URL."
+msgstr ""
+
+#: inc/options/options-config.php:421
+msgid "Google Plus"
+msgstr ""
+
+#: inc/options/options-config.php:423
+msgid "Enter your Google Plus URL."
+msgstr ""
+
+#: inc/options/options-config.php:429
+msgid "Flickr"
+msgstr ""
+
+#: inc/options/options-config.php:431
+msgid "Enter your Flickr URL."
+msgstr ""
+
+#: inc/options/options-config.php:437 inc/vc_extend/shortcodes/team.php:94
+msgid "Pinterest"
+msgstr ""
+
+#: inc/options/options-config.php:439
+msgid "Enter your Pinterest URL."
+msgstr ""
+
+#: inc/options/options-config.php:445
+msgid "Instagram"
+msgstr ""
+
+#: inc/options/options-config.php:447
+msgid "Enter your Instagram URL."
+msgstr ""
+
+#: inc/options/options-config.php:453
+msgid "Youtube"
+msgstr ""
+
+#: inc/options/options-config.php:455
+msgid "Enter your Youtube URL."
+msgstr ""
+
+#: inc/options/options-config.php:462 inc/vc_extend/shortcodes/contact.php:17
+msgid "Email"
+msgstr ""
+
+#: inc/options/options-config.php:464
+msgid "Enter your Email URL."
+msgstr ""
+
+#: inc/options/options-config.php:473
+msgid "Header"
+msgstr ""
+
+#: inc/options/options-config.php:482
+msgid "Header Sticky."
+msgstr ""
+
+#: inc/options/options-config.php:490
+msgid "Enable header social icon"
+msgstr ""
+
+#: inc/options/options-config.php:496
+msgid "Enable Facebook"
+msgstr ""
+
+#: inc/options/options-config.php:504
+msgid "Enable Twitter"
+msgstr ""
+
+#: inc/options/options-config.php:512
+msgid "Enable Youtube"
+msgstr ""
+
+#: inc/options/options-config.php:520
+msgid "Enable Linkedin"
+msgstr ""
+
+#: inc/options/options-config.php:528
+msgid "Enable Google"
+msgstr ""
+
+#: inc/options/options-config.php:536
+msgid "Enable Flickr"
+msgstr ""
+
+#: inc/options/options-config.php:544
+msgid "Enable Pinterest"
+msgstr ""
+
+#: inc/options/options-config.php:552
+msgid "Enable Instagram"
+msgstr ""
+
+#: inc/options/options-config.php:560
+msgid "Enable Email"
+msgstr ""
+
+#: inc/options/options-config.php:579
+msgid "Primary Menu Typography"
+msgstr ""
+
+#: inc/options/options-config.php:597
+msgid "Custom for primary menu."
+msgstr ""
+
+#: inc/options/options-config.php:606
+msgid "Page"
+msgstr ""
+
+#: inc/options/options-config.php:617
+msgid "Page Title Background"
+msgstr ""
+
+#: inc/options/options-config.php:628 inc/options/options-config.php:638
+msgid "Page Title Custom Color"
+msgstr ""
+
+#: inc/options/options-config.php:648
+msgid "Styling"
+msgstr ""
+
+#: inc/options/options-config.php:657
+msgid "Primary Color"
+msgstr ""
+
+#: inc/options/options-config.php:675
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/options/options-config.php:689
+msgid "Tertiary Color"
+msgstr ""
+
+#: inc/options/options-config.php:702
+msgid "Meta Color"
+msgstr ""
+
+#: inc/options/options-config.php:713
+msgid "Border Color"
+msgstr ""
+
+#: inc/options/options-config.php:726
+msgid "Site Background"
+msgstr ""
+
+#: inc/options/options-config.php:737
+msgid "Body Background for boxed layout"
+msgstr ""
+
+#: inc/options/options-config.php:748
+msgid "Typography"
+msgstr ""
+
+#: inc/options/options-config.php:758
+msgid "Body"
+msgstr ""
+
+#: inc/options/options-config.php:774
+msgid "Select font for main body text."
+msgstr ""
+
+#: inc/options/options-config.php:785
+msgid "H1"
+msgstr ""
+
+#: inc/options/options-config.php:801
+msgid "Select custom font for H1"
+msgstr ""
+
+#: inc/options/options-config.php:813
+msgid "H2"
+msgstr ""
+
+#: inc/options/options-config.php:829
+msgid "Select custom font for H2"
+msgstr ""
+
+#: inc/options/options-config.php:841
+msgid "H3"
+msgstr ""
+
+#: inc/options/options-config.php:857
+msgid "Select custom font for H3"
+msgstr ""
+
+#: inc/options/options-config.php:869
+msgid "H4"
+msgstr ""
+
+#: inc/options/options-config.php:885
+msgid "Select custom font for H4"
+msgstr ""
+
+#: inc/options/options-config.php:897
+msgid "H5"
+msgstr ""
+
+#: inc/options/options-config.php:913
+msgid "Select custom font for H5"
+msgstr ""
+
+#: inc/options/options-config.php:925
+msgid "H6"
+msgstr ""
+
+#: inc/options/options-config.php:941
+msgid "Select custom font for H6"
+msgstr ""
+
+#: inc/options/options-config.php:955
+msgid "Blog"
+msgstr ""
+
+#: inc/options/options-config.php:963
+msgid "Show Blog Page Title"
+msgstr ""
+
+#: inc/options/options-config.php:964 inc/options/options-config.php:971
+msgid "Select On to enable it"
+msgstr ""
+
+#: inc/options/options-config.php:970
+msgid "Show Blog Page Title For Single Blog Post"
+msgstr ""
+
+#: inc/options/options-config.php:977
+msgid "Show Featured Image"
+msgstr ""
+
+#: inc/options/options-config.php:978
+msgid "Show featured image on single blog post?"
+msgstr ""
+
+#: inc/options/options-config.php:984
+msgid "Show Author Box"
+msgstr ""
+
+#: inc/options/options-config.php:985
+msgid "Show author bio box on single blog post?"
+msgstr ""
+
+#: inc/options/options-config.php:993
+msgid "Footer"
+msgstr ""
+
+#: inc/options/options-config.php:1001
+msgid "Show footer widgets area."
+msgstr ""
+
+#: inc/options/options-config.php:1007
+msgid "Footer Columns"
+msgstr ""
+
+#: inc/options/options-config.php:1008
+msgid "Select the number of columns for footer widgets area."
+msgstr ""
+
+#: inc/options/options-config.php:1013
+msgid "1 Columns"
+msgstr ""
+
+#: inc/options/options-config.php:1014
+msgid "2 Columns"
+msgstr ""
+
+#: inc/options/options-config.php:1015
+msgid "3 Columns"
+msgstr ""
+
+#: inc/options/options-config.php:1024 inc/options/options-config.php:1079
+msgid "Footer Background"
+msgstr ""
+
+#: inc/options/options-config.php:1034
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: inc/options/options-config.php:1042
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/options/options-config.php:1050
+msgid "Footer Link Color"
+msgstr ""
+
+#: inc/options/options-config.php:1058
+msgid "Footer Link Color Hover"
+msgstr ""
+
+#: inc/options/options-config.php:1065
+msgid "Footer Bottom"
+msgstr ""
+
+#: inc/options/options-config.php:1071
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/options/options-config.php:1072
+msgid "Enter the copyright section text."
+msgstr ""
+
+#: inc/options/options-config.php:1091
+msgid "Custom Codes"
+msgstr ""
+
+#: inc/options/options-config.php:1098
+msgid "Header Custom Codes"
+msgstr ""
+
+#: inc/options/options-config.php:1099
+msgid "It will insert the code to wp_head hook."
+msgstr ""
+
+#: inc/options/options-config.php:1105
+msgid "Footer Custom Codes"
+msgstr ""
+
+#: inc/options/options-config.php:1106
+msgid "It will insert the code to wp_footer hook.) "
+msgstr ""
+
+#: inc/options/options-config.php:1115
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/options/options-config.php:1121
+msgid "CSS Code"
+msgstr ""
+
+#: inc/options/options-config.php:1122
+msgid "Advanced CSS Options. You can paste your custom CSS Code here."
+msgstr ""
+
+#: inc/plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/plugin-activation.php:400 inc/plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/plugin-activation.php:828 inc/plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/plugin-activation.php:935 inc/plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/plugin-activation.php:1116 inc/plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/plugin-activation.php:1881
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: inc/plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: inc/plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: inc/plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: inc/plugin-activation.php:2235
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/plugin-activation.php:2280
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugin-activation.php:2437 inc/vc_extend/shortcodes/carousel.php:30
+#: inc/vc_extend/shortcodes/grid.php:30
+msgid "Source"
+msgstr ""
+
+#: inc/plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: inc/plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: inc/plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: inc/plugin-activation.php:2491
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/plugin-activation.php:2495
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: inc/plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: inc/plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: inc/plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugin-activation.php:3370 inc/plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugin-activation.php:3370 inc/plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/template-tags.php:45
+msgid "&larr; Previous"
+msgstr ""
+
+#: inc/template-tags.php:46
+msgid "Next &rarr;"
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:80
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:140
+msgid "You Might Also Like"
+msgstr ""
+
+#: inc/template-tags.php:183
+#, php-format
+msgctxt "post date"
+msgid "On %s"
+msgstr ""
+
+#: inc/template-tags.php:188
+#, php-format
+msgctxt "post author"
+msgid "by: %s"
+msgstr ""
+
+#: inc/template-tags.php:206 inc/template-tags.php:212
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:208
+#, php-format
+msgid "In %1$s"
+msgstr ""
+
+#: inc/template-tags.php:214
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:220
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:220
+msgid " Comment"
+msgstr ""
+
+#: inc/template-tags.php:220
+msgid " Comments"
+msgstr ""
+
+#: inc/template-tags.php:224 inc/template-tags.php:378
+#: template-parts/content-page.php:21
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:241
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:243
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:245
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:247
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:247
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:249
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:249
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:251
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:251
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:254
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:256
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:258
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:260
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:262
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:264
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:266
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:268
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:270
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:273
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:277
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:279
+msgid "Archives"
+msgstr ""
+
+#: inc/template-tags.php:369
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:384
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/vc_extend/layout/carousel-layout2.php:23
+#: inc/vc_extend/layout/carousel-pages.php:42
+msgid "Read More"
+msgstr ""
+
+#: inc/vc_extend/layout/client-layout1.php:22
+msgid "by"
+msgstr ""
+
+#: inc/vc_extend/layout/client-layout2.php:27
+#: inc/vc_extend/layout/client-layout3.php:28
+msgid "By"
+msgstr ""
+
+#: inc/vc_extend/layout/contact-layout1.php:10
+msgid "Call now <br />for free consultation"
+msgstr ""
+
+#: inc/vc_extend/layout/contact-layout1.php:20
+msgid "Mail now <br />free consultation"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:4
+msgid "AB Button"
+msgstr ""
+
+#. Author of the plugin/theme
+#: inc/vc_extend/shortcodes/button.php:7
+#: inc/vc_extend/shortcodes/call_to_action.php:7
+#: inc/vc_extend/shortcodes/carousel.php:12
+#: inc/vc_extend/shortcodes/carousel_all.php:11
+#: inc/vc_extend/shortcodes/client.php:7 inc/vc_extend/shortcodes/contact.php:7
+#: inc/vc_extend/shortcodes/counter.php:7
+#: inc/vc_extend/shortcodes/custom_heading.php:7
+#: inc/vc_extend/shortcodes/feature_box.php:7
+#: inc/vc_extend/shortcodes/grid.php:12 inc/vc_extend/shortcodes/news.php:7
+#: inc/vc_extend/shortcodes/partner.php:7
+#: inc/vc_extend/shortcodes/pricing.php:7
+#: inc/vc_extend/shortcodes/progress_bar.php:7
+#: inc/vc_extend/shortcodes/team.php:7
+msgid "ThemeAmber"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:11
+#: inc/vc_extend/shortcodes/call_to_action.php:60
+#: inc/vc_extend/shortcodes/pricing.php:76
+msgid "Button Text"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:15
+#: inc/vc_extend/shortcodes/call_to_action.php:64
+#: inc/vc_extend/shortcodes/pricing.php:79
+msgid "Text on the button."
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:19
+#: inc/vc_extend/shortcodes/call_to_action.php:68
+#: inc/vc_extend/shortcodes/pricing.php:83
+msgid "URL (Link)"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:21
+#: inc/vc_extend/shortcodes/call_to_action.php:70
+#: inc/vc_extend/shortcodes/pricing.php:85
+msgid "Button link."
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:27
+#: inc/vc_extend/shortcodes/call_to_action.php:77
+msgid "Button Layout"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:41
+#: inc/vc_extend/shortcodes/button.php:49
+#: inc/vc_extend/shortcodes/button.php:57
+#: inc/vc_extend/shortcodes/button.php:71
+#: inc/vc_extend/shortcodes/button.php:81
+#: inc/vc_extend/shortcodes/button.php:90
+#: inc/vc_extend/shortcodes/button.php:99
+#: inc/vc_extend/shortcodes/button.php:108
+#: inc/vc_extend/shortcodes/button.php:121
+#: inc/vc_extend/shortcodes/button.php:129
+#: inc/vc_extend/shortcodes/call_to_action.php:63
+#: inc/vc_extend/shortcodes/call_to_action.php:71
+#: inc/vc_extend/shortcodes/call_to_action.php:90
+#: inc/vc_extend/shortcodes/call_to_action.php:98
+#: inc/vc_extend/shortcodes/call_to_action.php:107
+#: inc/vc_extend/shortcodes/call_to_action.php:121
+#: inc/vc_extend/shortcodes/call_to_action.php:131
+#: inc/vc_extend/shortcodes/call_to_action.php:140
+#: inc/vc_extend/shortcodes/call_to_action.php:149
+#: inc/vc_extend/shortcodes/call_to_action.php:158
+#: inc/vc_extend/shortcodes/call_to_action.php:171
+#: inc/vc_extend/shortcodes/call_to_action.php:179
+#: inc/vc_extend/shortcodes/feature_box.php:218
+#: inc/vc_extend/shortcodes/feature_box.php:226
+#: inc/vc_extend/shortcodes/feature_box.php:234
+#: inc/vc_extend/shortcodes/pricing.php:72
+#: inc/vc_extend/shortcodes/pricing.php:78
+#: inc/vc_extend/shortcodes/pricing.php:86
+msgid "Button"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:46
+msgid "Custom Background,Ouline Color"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:55
+msgid "Custom Text Color"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:64
+#: inc/vc_extend/shortcodes/call_to_action.php:114
+msgid "Button Size"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:77
+#: inc/vc_extend/shortcodes/call_to_action.php:127
+msgid "Custom Margin Top"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:86
+#: inc/vc_extend/shortcodes/call_to_action.php:136
+msgid "Custom Margin Bottom"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:95
+#: inc/vc_extend/shortcodes/call_to_action.php:145
+msgid "Custom Margin Left"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:104
+#: inc/vc_extend/shortcodes/call_to_action.php:154
+msgid "Custom Margin Right"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:112
+#: inc/vc_extend/shortcodes/call_to_action.php:162
+msgid "Button Align"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:125
+#: inc/vc_extend/shortcodes/button.php:128
+#: inc/vc_extend/shortcodes/call_to_action.php:175
+#: inc/vc_extend/shortcodes/call_to_action.php:178
+#: inc/vc_extend/shortcodes/carousel.php:70
+#: inc/vc_extend/shortcodes/carousel.php:73
+#: inc/vc_extend/shortcodes/carousel_all.php:28
+#: inc/vc_extend/shortcodes/carousel_all.php:31
+#: inc/vc_extend/shortcodes/client.php:36
+#: inc/vc_extend/shortcodes/client.php:39
+#: inc/vc_extend/shortcodes/contact.php:34
+#: inc/vc_extend/shortcodes/contact.php:37
+#: inc/vc_extend/shortcodes/counter.php:36
+#: inc/vc_extend/shortcodes/counter.php:39
+#: inc/vc_extend/shortcodes/feature_box.php:38
+#: inc/vc_extend/shortcodes/feature_box.php:41
+#: inc/vc_extend/shortcodes/grid.php:41 inc/vc_extend/shortcodes/grid.php:44
+#: inc/vc_extend/shortcodes/news.php:24 inc/vc_extend/shortcodes/news.php:27
+#: inc/vc_extend/shortcodes/partner.php:36
+#: inc/vc_extend/shortcodes/partner.php:39
+#: inc/vc_extend/shortcodes/pricing.php:34
+#: inc/vc_extend/shortcodes/pricing.php:36
+#: inc/vc_extend/shortcodes/progress_bar.php:23
+#: inc/vc_extend/shortcodes/progress_bar.php:26
+#: inc/vc_extend/shortcodes/team.php:37 inc/vc_extend/shortcodes/team.php:40
+msgid "Extra Class"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:133
+#: inc/vc_extend/shortcodes/call_to_action.php:183
+#: inc/vc_extend/shortcodes/counter.php:59
+#: inc/vc_extend/shortcodes/custom_heading.php:28
+#: inc/vc_extend/shortcodes/feature_box.php:46
+msgid "Icon library"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:135
+#: inc/vc_extend/shortcodes/call_to_action.php:185
+#: inc/vc_extend/shortcodes/counter.php:61
+#: inc/vc_extend/shortcodes/custom_heading.php:30
+#: inc/vc_extend/shortcodes/feature_box.php:48
+msgid "Font Awesome"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:145
+#: inc/vc_extend/shortcodes/call_to_action.php:189
+#: inc/vc_extend/shortcodes/counter.php:65
+#: inc/vc_extend/shortcodes/custom_heading.php:33
+#: inc/vc_extend/shortcodes/feature_box.php:58
+msgid "Select icon library."
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:146
+#: inc/vc_extend/shortcodes/button.php:163
+#: inc/vc_extend/shortcodes/button.php:180
+#: inc/vc_extend/shortcodes/button.php:197
+#: inc/vc_extend/shortcodes/button.php:214
+#: inc/vc_extend/shortcodes/button.php:231
+#: inc/vc_extend/shortcodes/button.php:248
+#: inc/vc_extend/shortcodes/button.php:265
+#: inc/vc_extend/shortcodes/call_to_action.php:190
+#: inc/vc_extend/shortcodes/call_to_action.php:207
+#: inc/vc_extend/shortcodes/call_to_action.php:224
+#: inc/vc_extend/shortcodes/call_to_action.php:241
+#: inc/vc_extend/shortcodes/call_to_action.php:258
+#: inc/vc_extend/shortcodes/call_to_action.php:275
+#: inc/vc_extend/shortcodes/call_to_action.php:292
+#: inc/vc_extend/shortcodes/call_to_action.php:309
+msgid "Icon"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:150
+#: inc/vc_extend/shortcodes/button.php:167
+#: inc/vc_extend/shortcodes/button.php:184
+#: inc/vc_extend/shortcodes/button.php:201
+#: inc/vc_extend/shortcodes/button.php:218
+#: inc/vc_extend/shortcodes/button.php:235
+#: inc/vc_extend/shortcodes/button.php:252
+#: inc/vc_extend/shortcodes/call_to_action.php:194
+#: inc/vc_extend/shortcodes/call_to_action.php:211
+#: inc/vc_extend/shortcodes/call_to_action.php:228
+#: inc/vc_extend/shortcodes/call_to_action.php:245
+#: inc/vc_extend/shortcodes/call_to_action.php:262
+#: inc/vc_extend/shortcodes/call_to_action.php:279
+#: inc/vc_extend/shortcodes/call_to_action.php:296
+#: inc/vc_extend/shortcodes/counter.php:70
+#: inc/vc_extend/shortcodes/custom_heading.php:38
+#: inc/vc_extend/shortcodes/feature_box.php:63
+#: inc/vc_extend/shortcodes/feature_box.php:80
+#: inc/vc_extend/shortcodes/feature_box.php:97
+#: inc/vc_extend/shortcodes/feature_box.php:114
+#: inc/vc_extend/shortcodes/feature_box.php:131
+#: inc/vc_extend/shortcodes/feature_box.php:148
+#: inc/vc_extend/shortcodes/feature_box.php:165
+msgid "Icon Item"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/button.php:162
+#: inc/vc_extend/shortcodes/button.php:179
+#: inc/vc_extend/shortcodes/button.php:196
+#: inc/vc_extend/shortcodes/button.php:213
+#: inc/vc_extend/shortcodes/button.php:230
+#: inc/vc_extend/shortcodes/button.php:247
+#: inc/vc_extend/shortcodes/button.php:264
+#: inc/vc_extend/shortcodes/call_to_action.php:206
+#: inc/vc_extend/shortcodes/call_to_action.php:223
+#: inc/vc_extend/shortcodes/call_to_action.php:240
+#: inc/vc_extend/shortcodes/call_to_action.php:257
+#: inc/vc_extend/shortcodes/call_to_action.php:274
+#: inc/vc_extend/shortcodes/call_to_action.php:291
+#: inc/vc_extend/shortcodes/call_to_action.php:308
+#: inc/vc_extend/shortcodes/counter.php:82
+#: inc/vc_extend/shortcodes/custom_heading.php:50
+#: inc/vc_extend/shortcodes/feature_box.php:75
+#: inc/vc_extend/shortcodes/feature_box.php:92
+#: inc/vc_extend/shortcodes/feature_box.php:109
+#: inc/vc_extend/shortcodes/feature_box.php:126
+#: inc/vc_extend/shortcodes/feature_box.php:143
+#: inc/vc_extend/shortcodes/feature_box.php:160
+#: inc/vc_extend/shortcodes/feature_box.php:177
+#: inc/vc_extend/shortcodes/progress_bar.php:61
+msgid "Select icon from library."
+msgstr ""
+
+#: inc/vc_extend/shortcodes/call_to_action.php:4
+msgid "AB Call To Action"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/call_to_action.php:11
+msgid "Heading"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/call_to_action.php:13
+msgid "Enter text for heading line."
+msgstr ""
+
+#: inc/vc_extend/shortcodes/call_to_action.php:18
+#: inc/vc_extend/shortcodes/custom_heading.php:20
+msgid "Heading Color"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/call_to_action.php:23
+msgid "SubHeading"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/call_to_action.php:25
+msgid "Enter text for subheading line."
+msgstr ""
+
+#: inc/vc_extend/shortcodes/call_to_action.php:30
+msgid "SubHeading Color"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/call_to_action.php:35
+msgid "Text Align"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/call_to_action.php:49
+msgid "Call To Action Layout"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/call_to_action.php:95
+msgid "Custom Button BG Color"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/call_to_action.php:104
+msgid "Custom Button Text Color"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:9
+msgid "AB Carousel"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:40
+#: inc/vc_extend/shortcodes/grid.php:49
+msgid "Select Parent Page"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:42
+#: inc/vc_extend/shortcodes/grid.php:51
+msgid "Get page childen of that page. Use for Layout Carousel Pages."
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:45
+#: inc/vc_extend/shortcodes/carousel.php:55
+#: inc/vc_extend/shortcodes/carousel.php:65
+msgid "Carousel Pages"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:51
+#: inc/vc_extend/shortcodes/grid.php:60
+msgid "Specify page NOT SHOW"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:61
+#: inc/vc_extend/shortcodes/grid.php:70
+msgid "Number Page Show"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:78
+#: inc/vc_extend/shortcodes/carousel_all.php:36
+#: inc/vc_extend/shortcodes/grid.php:87
+msgid "Extra Small Devices"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:80
+#: inc/vc_extend/shortcodes/carousel_all.php:38
+#: inc/vc_extend/shortcodes/grid.php:89
+msgid "Extra small devices (phones, less than 768px)"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:84
+#: inc/vc_extend/shortcodes/carousel.php:94
+#: inc/vc_extend/shortcodes/carousel.php:104
+#: inc/vc_extend/shortcodes/carousel.php:114
+#: inc/vc_extend/shortcodes/carousel.php:122
+#: inc/vc_extend/shortcodes/carousel.php:133
+#: inc/vc_extend/shortcodes/carousel.php:144
+#: inc/vc_extend/shortcodes/carousel.php:155
+#: inc/vc_extend/shortcodes/carousel.php:166
+#: inc/vc_extend/shortcodes/carousel_all.php:42
+#: inc/vc_extend/shortcodes/carousel_all.php:52
+#: inc/vc_extend/shortcodes/carousel_all.php:62
+#: inc/vc_extend/shortcodes/carousel_all.php:72
+#: inc/vc_extend/shortcodes/carousel_all.php:80
+#: inc/vc_extend/shortcodes/carousel_all.php:91
+#: inc/vc_extend/shortcodes/carousel_all.php:102
+#: inc/vc_extend/shortcodes/carousel_all.php:113
+#: inc/vc_extend/shortcodes/carousel_all.php:124
+msgid "Carousel Settings"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:88
+#: inc/vc_extend/shortcodes/carousel_all.php:46
+#: inc/vc_extend/shortcodes/grid.php:97
+msgid "Small Devices"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:90
+#: inc/vc_extend/shortcodes/carousel_all.php:48
+#: inc/vc_extend/shortcodes/grid.php:99
+msgid "Small devices (tablets, 768px and up)"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:98
+#: inc/vc_extend/shortcodes/carousel_all.php:56
+#: inc/vc_extend/shortcodes/grid.php:107
+msgid "Medium Devices"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:101
+#: inc/vc_extend/shortcodes/carousel_all.php:59
+#: inc/vc_extend/shortcodes/grid.php:110
+msgid "Medium devices (desktops, 992px and up)"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:108
+#: inc/vc_extend/shortcodes/carousel_all.php:66
+#: inc/vc_extend/shortcodes/grid.php:117
+msgid "Large Devices"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:110
+#: inc/vc_extend/shortcodes/carousel_all.php:68
+#: inc/vc_extend/shortcodes/grid.php:119
+msgid "Large devices (large desktops, 1200px and up)"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:118
+#: inc/vc_extend/shortcodes/carousel.php:120
+#: inc/vc_extend/shortcodes/carousel_all.php:76
+#: inc/vc_extend/shortcodes/carousel_all.php:79
+#: inc/vc_extend/shortcodes/grid.php:127
+msgid "Margin Items"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:126
+#: inc/vc_extend/shortcodes/carousel_all.php:84
+msgid "Loop Items"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:137
+#: inc/vc_extend/shortcodes/carousel_all.php:95
+msgid "Show Nav"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:148
+#: inc/vc_extend/shortcodes/carousel_all.php:106
+msgid "Show Dots"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel.php:159
+#: inc/vc_extend/shortcodes/carousel_all.php:117
+msgid "Auto Play"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/carousel_all.php:4
+msgid "AB Carousel All"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/client.php:4
+msgid "AB Client - Testimonial"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/client.php:11
+#: inc/vc_extend/shortcodes/counter.php:11
+#: inc/vc_extend/shortcodes/feature_box.php:13
+#: inc/vc_extend/shortcodes/news.php:13 inc/vc_extend/shortcodes/partner.php:11
+#: inc/vc_extend/shortcodes/pricing.php:11
+#: inc/vc_extend/shortcodes/progress_bar.php:13
+#: inc/vc_extend/shortcodes/team.php:11
+msgid "Shortcode Template"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/client.php:24
+#: inc/vc_extend/shortcodes/counter.php:23
+#: inc/vc_extend/shortcodes/custom_heading.php:79
+#: inc/vc_extend/shortcodes/feature_box.php:25
+#: inc/vc_extend/shortcodes/partner.php:23
+#: inc/vc_extend/shortcodes/pricing.php:22 inc/vc_extend/shortcodes/team.php:24
+msgid "Content Align"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/client.php:44
+#: inc/vc_extend/shortcodes/partner.php:44 inc/vc_extend/shortcodes/team.php:45
+msgid "Name"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/client.php:47
+msgid "Client Name"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/client.php:48
+#: inc/vc_extend/shortcodes/client.php:56
+#: inc/vc_extend/shortcodes/client.php:64
+#: inc/vc_extend/shortcodes/client.php:70
+msgid "Client"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/client.php:52
+#: inc/vc_extend/shortcodes/client.php:55 inc/vc_extend/shortcodes/team.php:53
+#: inc/vc_extend/shortcodes/team.php:56
+msgid "Position"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/client.php:60
+#: inc/vc_extend/shortcodes/client.php:63
+#: inc/vc_extend/shortcodes/pricing.php:62
+#: inc/vc_extend/shortcodes/pricing.php:64 inc/vc_extend/shortcodes/team.php:61
+#: inc/vc_extend/shortcodes/team.php:64
+msgid "Description"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/client.php:68
+msgid "Client Image"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/contact.php:4
+msgid "AB Contact Info"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/contact.php:11
+msgid "Phone"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/contact.php:13
+msgid "Enter phone number."
+msgstr ""
+
+#: inc/vc_extend/shortcodes/contact.php:19
+msgid "Enter email."
+msgstr ""
+
+#: inc/vc_extend/shortcodes/contact.php:25
+msgid "Contact Infor Layout"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/counter.php:4
+msgid "AB Counter"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/counter.php:44
+msgid "Title Counter"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/counter.php:47
+#: inc/vc_extend/shortcodes/feature_box.php:191
+#: inc/vc_extend/shortcodes/news.php:64
+msgid "Title Of Item"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/counter.php:48
+#: inc/vc_extend/shortcodes/counter.php:55
+#: inc/vc_extend/shortcodes/counter.php:66
+#: inc/vc_extend/shortcodes/counter.php:83
+#: inc/vc_extend/shortcodes/counter.php:91
+#: inc/vc_extend/shortcodes/counter.php:99
+#: inc/vc_extend/shortcodes/counter.php:107
+msgid "Counter"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/counter.php:52
+msgid "Title Color"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/counter.php:87
+#: inc/vc_extend/shortcodes/counter.php:90
+msgid "Digit"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/counter.php:95
+#: inc/vc_extend/shortcodes/counter.php:98
+msgid "Suffix"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/counter.php:103
+#: inc/vc_extend/shortcodes/counter.php:106
+msgid "Prefix"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/custom_heading.php:4
+msgid "AB Custom Heading"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/custom_heading.php:11
+#: inc/vc_extend/shortcodes/custom_heading.php:14
+msgid "Custom heading"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/custom_heading.php:16
+#: inc/vc_extend/shortcodes/custom_heading.php:23
+#: inc/vc_extend/shortcodes/custom_heading.php:34
+#: inc/vc_extend/shortcodes/custom_heading.php:51
+msgid "Custom Heading"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/custom_heading.php:56
+msgid "Custom Heading Layout"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/custom_heading.php:71
+msgid "Heading margin bottom"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/custom_heading.php:74
+msgid "In px. Ex: 20px"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/feature_box.php:4
+msgid "AB Feature Box"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/feature_box.php:49
+msgid "Open Iconic"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/feature_box.php:50
+msgid "Typicons"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/feature_box.php:51
+msgid "Entypo"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/feature_box.php:52
+msgid "Linecons"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/feature_box.php:53
+msgid "Pixel"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/feature_box.php:54
+msgid "P7 Stroke"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/feature_box.php:59
+#: inc/vc_extend/shortcodes/feature_box.php:76
+#: inc/vc_extend/shortcodes/feature_box.php:93
+#: inc/vc_extend/shortcodes/feature_box.php:110
+#: inc/vc_extend/shortcodes/feature_box.php:127
+#: inc/vc_extend/shortcodes/feature_box.php:144
+#: inc/vc_extend/shortcodes/feature_box.php:161
+#: inc/vc_extend/shortcodes/feature_box.php:178
+#: inc/vc_extend/shortcodes/feature_box.php:184
+#: inc/vc_extend/shortcodes/feature_box.php:193
+#: inc/vc_extend/shortcodes/feature_box.php:201
+#: inc/vc_extend/shortcodes/feature_box.php:207
+msgid "Feature Box"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/feature_box.php:182
+#: inc/vc_extend/shortcodes/news.php:54
+msgid "Image Item"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/feature_box.php:188
+#: inc/vc_extend/shortcodes/news.php:61
+msgid "Title Item"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/feature_box.php:197
+msgid "SubTitle Item"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/feature_box.php:200
+msgid "SubTitle Of Item"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/feature_box.php:205
+#: inc/vc_extend/shortcodes/news.php:70
+msgid "Content Item"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/feature_box.php:211
+msgid "Button Type"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/feature_box.php:222
+#: inc/vc_extend/shortcodes/feature_box.php:225
+#: inc/vc_extend/shortcodes/news.php:76 inc/vc_extend/shortcodes/news.php:78
+msgid "Link"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/feature_box.php:230
+#: inc/vc_extend/shortcodes/feature_box.php:233
+msgid "Text"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/grid.php:9
+msgid "AB Grid"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/grid.php:54 inc/vc_extend/shortcodes/grid.php:64
+#: inc/vc_extend/shortcodes/grid.php:74
+msgid "Grid Pages"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/grid.php:79 inc/vc_extend/shortcodes/grid.php:82
+msgid "Grid Title"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/grid.php:83 inc/vc_extend/shortcodes/grid.php:93
+#: inc/vc_extend/shortcodes/grid.php:103 inc/vc_extend/shortcodes/grid.php:113
+#: inc/vc_extend/shortcodes/grid.php:123 inc/vc_extend/shortcodes/grid.php:131
+#: inc/vc_extend/shortcodes/grid.php:142
+msgid "Grid Settings"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/grid.php:130
+msgid "Insert number only, ex: 30"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/grid.php:135
+msgid "Show Filter"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/news.php:4
+msgid "AB News"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/news.php:33 inc/vc_extend/shortcodes/news.php:35
+msgid "Day"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/news.php:36 inc/vc_extend/shortcodes/news.php:43
+#: inc/vc_extend/shortcodes/news.php:50 inc/vc_extend/shortcodes/news.php:56
+#: inc/vc_extend/shortcodes/news.php:66 inc/vc_extend/shortcodes/news.php:72
+#: inc/vc_extend/shortcodes/news.php:79
+msgid "News"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/news.php:40 inc/vc_extend/shortcodes/news.php:42
+msgid "Month"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/news.php:47 inc/vc_extend/shortcodes/news.php:49
+msgid "Year"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/partner.php:4
+msgid "AB Partner"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/partner.php:47
+msgid "Partner Link"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/partner.php:48
+#: inc/vc_extend/shortcodes/partner.php:54
+msgid "Partner"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/partner.php:52
+msgid "Partner Image"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/pricing.php:4
+msgid "AB Pricing Table"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/pricing.php:41
+msgid "Title"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/pricing.php:43
+msgid "Title of Pricing"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/pricing.php:44
+#: inc/vc_extend/shortcodes/pricing.php:51
+#: inc/vc_extend/shortcodes/pricing.php:58
+#: inc/vc_extend/shortcodes/pricing.php:65
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/pricing.php:48
+msgid "Price"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/pricing.php:50
+msgid "Price (insert number)"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/pricing.php:69
+#: inc/vc_extend/shortcodes/pricing.php:71
+msgid "Popular"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/progress_bar.php:4
+msgid "AB Progress Bar"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/progress_bar.php:31
+msgid "Mode"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/progress_bar.php:38
+#: inc/vc_extend/shortcodes/progress_bar.php:46
+#: inc/vc_extend/shortcodes/progress_bar.php:62
+#: inc/vc_extend/shortcodes/progress_bar.php:74
+#: inc/vc_extend/shortcodes/progress_bar.php:83
+#: inc/vc_extend/shortcodes/progress_bar.php:89
+#: inc/vc_extend/shortcodes/progress_bar.php:97
+#: inc/vc_extend/shortcodes/progress_bar.php:105
+#: inc/vc_extend/shortcodes/progress_bar.php:114
+#: inc/vc_extend/shortcodes/progress_bar.php:123
+#: inc/vc_extend/shortcodes/progress_bar.php:130
+#: inc/vc_extend/shortcodes/progress_bar.php:142
+#: inc/vc_extend/shortcodes/progress_bar.php:153
+msgid "Progress Bar"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/progress_bar.php:42
+#: inc/vc_extend/shortcodes/progress_bar.php:45
+msgid "Item Title"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/progress_bar.php:50
+msgid "Icon Title"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/progress_bar.php:66
+msgid "Show Value"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/progress_bar.php:80
+msgid "Value"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/progress_bar.php:88
+msgid "Value Suffix"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/progress_bar.php:95
+msgid "Background Color Bar"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/progress_bar.php:99
+msgid "Background color for wrapper bar. Default is #eeeeee"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/progress_bar.php:103
+msgid "Progress Color"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/progress_bar.php:106
+msgid "Background color for progress."
+msgstr ""
+
+#: inc/vc_extend/shortcodes/progress_bar.php:111
+msgid "Width"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/progress_bar.php:120
+msgid "Height"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/progress_bar.php:128
+msgid "Border Radius"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/progress_bar.php:135
+msgid "Striped"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/progress_bar.php:146
+msgid "Animated"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/team.php:4
+msgid "AB Team"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/team.php:48
+msgid "Team Name"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/team.php:49 inc/vc_extend/shortcodes/team.php:57
+#: inc/vc_extend/shortcodes/team.php:65 inc/vc_extend/shortcodes/team.php:71
+msgid "Team"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/team.php:69
+msgid "Team Image"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/team.php:80 inc/vc_extend/shortcodes/team.php:89
+#: inc/vc_extend/shortcodes/team.php:98 inc/vc_extend/shortcodes/team.php:107
+msgid "Social"
+msgstr ""
+
+#: inc/vc_extend/shortcodes/team.php:103
+msgid "Google +"
+msgstr ""
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-audio.php:34 template-parts/content-gallery.php:34
+#: template-parts/content-page.php:14 template-parts/content-quote.php:34
+#: template-parts/content-single-audio.php:23
+#: template-parts/content-single-gallery.php:23
+#: template-parts/content-single-quote.php:30
+#: template-parts/content-single-video.php:23
+#: template-parts/content-single.php:30 template-parts/content-video.php:34
+#: template-parts/content.php:33
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: widgets/portfolio.php:11
+msgid "ST Portfolio"
+msgstr ""
+
+#: widgets/portfolio.php:11
+msgid "Display your latest Portfolio"
+msgstr ""
+
+#: widgets/recent-post.php:12
+msgid "AB Recent Posts"
+msgstr ""
+
+#: widgets/recent-post.php:12
+msgid "Display Posts widget"
+msgstr ""
+
+#: widgets/recent-post.php:93
+msgid "Latest Posts"
+msgstr ""
+
+#: widgets/recent-post.php:98
+msgid "Title:"
+msgstr ""
+
+#: widgets/recent-post.php:116
+msgid "Number of posts to show:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Consultancy"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://themeamber.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Consultancy Theme For Wordpress"
+msgstr ""

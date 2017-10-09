@@ -1,0 +1,44 @@
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="tel"],
+input[type="search"],
+input[type="number"],
+textarea {
+  color: $color__text-input;
+  border: 1px solid $color__border-input;
+
+  &:focus {
+    color: $color__text-input-focus;
+    outline: 0;
+  }
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="tel"],
+input[type="search"],
+input[type="number"],
+textarea {
+  padding: 7px 15px;
+  outline: 0;
+}
+
+input[type="submit"]{
+  &:focus {
+    outline: 0;
+  }
+}
+
+textarea {
+  width: 100%;
+  max-width: 100%;
+}
+
+select{
+  border-color: $color__border;
+  padding: 7px 10px;
+}
